@@ -10,6 +10,7 @@ import Menu from "@material-ui/core/Menu";
 
 import { Link } from "react-router-dom";
 
+console.log("Hello There");
 const useStyles = makeStyles((theme) => ({
   root: {
     flexGrow: 1,
